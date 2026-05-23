@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:label="Roblox Mic Submix"
+        android:theme="@android:style/Theme.Material.NoActionBar">
+
+        <meta-data android:name="xposedmodule" android:value="true" />
+        <meta-data android:name="xposeddescription" android:value="Força o Roblox a usar Remote Submix como microfone" />
+        <meta-data android:name="xposedminversion" android:value="82" />
+
+    </application>
+</manifest>
